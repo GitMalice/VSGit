@@ -23,3 +23,4 @@ function colorSwitch(color, delay) {
 colorSwitch('blue',1000)
 colorSwitch('red',2000)
 colorSwitch('green',3000)
+colorSwitch('purple',4000)
