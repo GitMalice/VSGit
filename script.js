@@ -17,10 +17,10 @@
 function colorSwitch(color, delay) {
   setTimeout( () => {
     document.body.style.backgroundColor = color
-  },1000)
+  }, delay)
 }
 
-colorSwitch('blue',1000)
-colorSwitch('red',2000)
-colorSwitch('green',3000)
-colorSwitch('purple',4000)
+colorSwitch('blue', 1000)
+colorSwitch('red', 2000)
+colorSwitch('green', 3000)
+colorSwitch('purple', 4000)
